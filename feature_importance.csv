@@ -1,0 +1,10 @@
+Feature,RF_Importance,Permutation_Importance,Linear_Std_Coefficient
+daily_study_hrs,0.726,1.254,0.532
+daily_screen_time_hrs,0.101,0.107,-0.175
+battery_health_pct,0.052,0.044,0.081
+attendance_pct,0.046,0.04,0.119
+age,0.031,0.021,-0.09
+daily_charge_cycles,0.017,0.012,0.002
+charges_overnight,0.016,0.02,-0.128
+gender,0.007,0.003,-0.011
+year_of_study,0.004,0.002,0.065
